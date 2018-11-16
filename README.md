@@ -6,7 +6,7 @@ Google Spreadsheet macros to get insights about your mail.
 * In the newly opened editor tab paste the contents of the [code.gs](code.gs) file.
 * **Save** the project and go back to the Spreadheet tab.
 * Go to **Tools > Macros > Import** and add the functions "**custom_list**", "**promotions_list**", "**social_list**" and "**updates_list**". Don't add the "list" function since it shouldn't be directly called by the user.
-* Accept notification asking for authorization.
+* Accept the notification asking for authorization.
 * You are good to go! All you have to do is go again to **Tools > Macros** and select the function you want to execute. You can also add, delete and assign keyboard shortcuts to the functions from the **Manage** option in the Macros menu.
 
 ### Recommendations
