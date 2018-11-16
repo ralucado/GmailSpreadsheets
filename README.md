@@ -9,4 +9,7 @@ Google Spreadsheet macros to get insights about your mail.
 * Accept notification asking for authorization.
 * You are good to go! All you have to do is go again to **Tools > Macros** and select the function you want to execute. You can also add, delete and assign keyboard shortcuts to the functions from the **Manage** option in the Macros menu.
 
+### Improvements
+You can sort the mail recipients by clicking on the little arrow on the **B** column header and select the **Sort Z -> A** option.
+
 Thanks!
